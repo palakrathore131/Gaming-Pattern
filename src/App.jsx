@@ -115,7 +115,7 @@ const App = () => {
         FOG GAMING WAVE PROJECT BY : PALAK
       </h1>
 
-      {/* Main Wrapper Box */}
+      {/* Main Box */}
       <div className="bg-[#3a3a3a] p-[20px] rounded-lg shadow-lg border border-gray-600">
         <div
           ref={boardRef}

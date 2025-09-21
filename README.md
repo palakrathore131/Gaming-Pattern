@@ -1,10 +1,4 @@
-Wave Grid (Green to Blue)
-
-Run:
-1. npm install
-2. npm run dev
-
-Animation:
-- 15x20 grid
-- Squares bounce left↔right
-- After ~3 bounces, color slowly switches from green → blue → green
+Hello friend npm folder also provide in this repo..
+you can use direct this folder.
+i'm palak rathore full stack developer.
+download zip file add extrat all the files open in vs code and run react file.
